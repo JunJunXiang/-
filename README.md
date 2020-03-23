@@ -1,1 +1,1 @@
-# 自動生成驗證碼，並訓練神經網路辨識
+# Recognize Verification code
